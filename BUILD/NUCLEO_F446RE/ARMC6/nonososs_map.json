@@ -1,0 +1,450 @@
+[
+    {
+        "module": "AKM_HAL\\AKH_APIs.o",
+        "size": {
+            ".text": 1414,
+            ".data": 0,
+            ".bss": 1399,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_HAL\\akh_i2c.o",
+        "size": {
+            ".text": 252,
+            ".data": 0,
+            ".bss": 264,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_HAL\\akh_spi.o",
+        "size": {
+            ".text": 112,
+            ".data": 0,
+            ".bss": 200,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Library\\akfs_aoc.o",
+        "size": {
+            ".text": 90,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Library\\akfs_apis.o",
+        "size": {
+            ".text": 154,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Library\\akfs_device.o",
+        "size": {
+            ".text": 36,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Library\\akfs_measure.o",
+        "size": {
+            ".text": 104,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\AKS_APIs.o",
+        "size": {
+            ".text": 2573,
+            ".data": 28,
+            ".bss": 38,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_acc_adxl34x.o",
+        "size": {
+            ".text": 658,
+            ".data": 29,
+            ".bss": 10,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_acc_gyr_bmi160.o",
+        "size": {
+            ".text": 1210,
+            ".data": 56,
+            ".bss": 10,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_common.o",
+        "size": {
+            ".text": 140,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_gyr_l3g4200d.o",
+        "size": {
+            ".text": 510,
+            ".data": 29,
+            ".bss": 6,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09911_selftest.o",
+        "size": {
+            ".text": 674,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09912_selftest.o",
+        "size": {
+            ".text": 736,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09913_selftest.o",
+        "size": {
+            ".text": 500,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09915_selftest.o",
+        "size": {
+            ".text": 500,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09916_selftest.o",
+        "size": {
+            ".text": 508,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09917_selftest.o",
+        "size": {
+            ".text": 530,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09918_selftest.o",
+        "size": {
+            ".text": 514,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09919_selftest.o",
+        "size": {
+            ".text": 578,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak09940a_selftest.o",
+        "size": {
+            ".text": 618,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak0994x.o",
+        "size": {
+            ".text": 931,
+            ".data": 28,
+            ".bss": 19,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak099xx.o",
+        "size": {
+            ".text": 1334,
+            ".data": 29,
+            ".bss": 21,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak8963.o",
+        "size": {
+            ".text": 628,
+            ".data": 28,
+            ".bss": 27,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "AKM_Sensors\\aks_mag_ak8963_selftest.o",
+        "size": {
+            ".text": 1046,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\c_w.l",
+        "size": {
+            ".text": 4266,
+            ".data": 16,
+            ".bss": 348,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\fz_wm.l",
+        "size": {
+            ".text": 26,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\libcppabi_w.l",
+        "size": {
+            ".text": 44,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "akm_extra\\akm_extra.o",
+        "size": {
+            ".text": 4,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "akm_extra\\looper_oss.o",
+        "size": {
+            ".text": 220,
+            ".data": 0,
+            ".bss": 20,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "akm_extra\\print_util.o",
+        "size": {
+            ".text": 379,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "anon$$obj.o",
+        "size": {
+            ".text": 32,
+            ".data": 0,
+            ".bss": 1024,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "main.o",
+        "size": {
+            ".text": 984,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\cmsis",
+        "size": {
+            ".text": 9708,
+            ".data": 168,
+            ".bss": 6738,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\connectivity",
+        "size": {
+            ".text": 603,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\drivers",
+        "size": {
+            ".text": 6482,
+            ".data": 0,
+            ".bss": 1780,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\hal",
+        "size": {
+            ".text": 2338,
+            ".data": 4,
+            ".bss": 58,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\platform",
+        "size": {
+            ".text": 7671,
+            ".data": 64,
+            ".bss": 344,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\rtos",
+        "size": {
+            ".text": 452,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\targets",
+        "size": {
+            ".text": 21033,
+            ".data": 8,
+            ".bss": 1172,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 13965,
+            "static_ram_delta": 0,
+            "total_flash": 71079,
+            "total_flash_delta": 0
+        }
+    }
+]
